@@ -19,17 +19,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /portfolio
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
-header-item2-link: /YOUR_REPOSITORY_NAME/about
-header-item3-link: /YOUR_REPOSITORY_NAME/blogs
-header-item4-link: /YOUR_REPOSITORY_NAME/projects
+header-item1-link: /portfolio
+header-item2-link: /portfolio/about
+header-item3-link: /portfolio/blogs
+header-item4-link: /portfolio/projects
 cta-item2: Resume
-cta-item2-link: /YOUR_REPOSITORY_NAME/resume
+cta-item2-link: /portfolio/resume
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/yashvini malviya
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -116,15 +116,15 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/yashvini malviya
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/yashvi_nimalviya
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:yashvinimalviya214@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
